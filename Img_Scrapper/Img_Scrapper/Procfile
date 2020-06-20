@@ -1,0 +1,1 @@
+web: python Img.Scrapper_main.py   --master --processes 4 --threads 2
